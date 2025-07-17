@@ -16,10 +16,10 @@ The app includies the following functionalites:
 ## Video Walkthrough
 
 <div>
-    <a href="https://www.loom.com/share/e9c079f306c84febad2cbfb0c5ad294f">
+    <a href="https://www.loom.com/share/abea240c9ff740018a1e6d354d5f8db2">
     </a>
-    <a href="https://www.loom.com/share/e9c079f306c84febad2cbfb0c5ad294f">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e9c079f306c84febad2cbfb0c5ad294f-b09f247dd78f7993-full-play.gif">
+    <a href="https://www.loom.com/share/abea240c9ff740018a1e6d354d5f8db2">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/abea240c9ff740018a1e6d354d5f8db2-14e828067e34067a-full-play.gif">
     </a>
   </div>
 
